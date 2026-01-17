@@ -426,13 +426,13 @@ margin-top: 9px;
 
 .select {
   width:24px;
-  height: 24px;
+  height: 26px;
   border: 1px solid black;
   border-right: none;
   outline: none;
   font-size: 9px;
  position: relative;
- top: 33.5px;
+ top: 34px;
  right: 364px;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -457,7 +457,7 @@ margin-top: 9px;
   transform: translatey(-4px);
   flex: 1;                 
   /* width: 89vw; */
-  height: 24px;
+  height: 26px;
   padding: 0 10px;         
   font-size: 7px;
   background-color: #f8f7f7;
@@ -476,7 +476,7 @@ margin-top: 9px;
 }
 .button {
   transform: translatey(-4px);
-  height: 24px;
+  height: 26px;
   width: 25px;
   background-color: orange;
   border: 1px solid black;
@@ -897,6 +897,7 @@ margin-top: 9px;
 
 
 }
+
 
 
 
