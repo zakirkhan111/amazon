@@ -459,7 +459,7 @@ margin-top: 9px;
   /* width: 89vw; */
   height: 26px;
   padding: 0 10px;         
-  font-size: 7px;
+  font-size: 9px;
   background-color: #f8f7f7;
   right: 340px;
   border: 1px solid black;
@@ -714,7 +714,7 @@ margin-top: 9px;
 .form-button {
  
  width: 70px;
- height: 27px;
+ height: 30px;
   background-color:rgba(255, 166, 0, 0.863);
   color: white;
   border: none;
@@ -897,6 +897,7 @@ margin-top: 9px;
 
 
 }
+
 
 
 
