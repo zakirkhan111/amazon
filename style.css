@@ -430,7 +430,7 @@ margin-top: 9px;
   outline: none;
   font-size: 7px;
  position: relative;
- top: 33px;
+ top: 32px;
  right: 354px;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -503,7 +503,7 @@ margin-top: 9px;
   cursor: pointer;
    position: relative;
    top:3px;
-   right: 672px;
+   right: 668px;
   }
   .login-button:hover{
     transition: transform 1s;
@@ -895,5 +895,6 @@ margin-top: 9px;
 
 
 }
+
 
 
