@@ -369,26 +369,28 @@ margin-top: 9px;
     width: 100vw;
    }
    .logo img{
-    width: 60px;
-    height: 55px;
+    width: 62px;
+    height: 58px;
     position: relative;
     top: 5px;
 }
 .items {
     display: flex;
     list-style: none;
-    gap: 20px;
+    gap: 18px;
     position: relative;
-    right: 28px;
-    bottom: 5px;
+    right: 33px;
+    bottom: 7px;
   } 
   .items li{
     margin: unset;
   background-color: orange;
   color: black;
   align-items: center;
-  width: 40px;
- font-size: 8px;
+  width: 46px;
+  height: 15px;
+  text-align: center;
+ font-size: 10px;
  padding: 3px;
  position: relative;
  right: 3px;
@@ -419,19 +421,19 @@ margin-top: 9px;
  position: relative;
   /* right: 134px; */
   width: 100vw;
-  top: 2px;
+  top: 3px;
 }
 
 .select {
-  width:20px;
-  height: 20px;
+  width:24px;
+  height: 24px;
   border: 1px solid black;
   border-right: none;
   outline: none;
-  font-size: 7px;
+  font-size: 9px;
  position: relative;
  top: 32.5px;
- right: 354px;
+ right: 366px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -455,11 +457,11 @@ margin-top: 9px;
   transform: translatey(-4px);
   flex: 1;                 
   /* width: 89vw; */
-  height: 20px;
+  height: 24px;
   padding: 0 10px;         
   font-size: 7px;
   background-color: #f8f7f7;
-  right: 334px;
+  right: 342px;
   border: 1px solid black;
   border-left:none;
   border-right: none;
@@ -474,14 +476,14 @@ margin-top: 9px;
 }
 .button {
   transform: translatey(-4px);
-  height: 20px;
-  width: 22px;
+  height: 24px;
+  width: 25px;
   background-color: orange;
   border: 1px solid black;
   border-left: none;
   font-size: 12px;
   position: relative;
-  right: 364px;
+  right: 372px;
   top: 34px;
    border-radius: 0px;
   padding: 1px 0 0 1px;
@@ -493,17 +495,17 @@ margin-top: 9px;
  .login-button{
       display: inline-block;  
   width: 40px;               
-  height: 17px;              
-  line-height: 17px;          
+  height: 23px;              
+  line-height: 19px;          
   background-color: orange;
   color: black;
   border-radius: 0 6px;
-  font-size: 8px;
+  font-size: 9.7px;
   text-decoration: none;
   cursor: pointer;
    position: relative;
-   top:3px;
-   right: 662px;
+   top:1px;
+   right: 672px;
   }
   .login-button:hover{
     transition: transform 1s;
@@ -895,7 +897,5 @@ margin-top: 9px;
 
 
 }
-
-
 
 
