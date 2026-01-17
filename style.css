@@ -432,8 +432,8 @@ margin-top: 9px;
   outline: none;
   font-size: 9px;
  position: relative;
- top: 33px;
- right: 366px;
+ top: 33.5px;
+ right: 364px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -461,7 +461,7 @@ margin-top: 9px;
   padding: 0 10px;         
   font-size: 7px;
   background-color: #f8f7f7;
-  right: 342px;
+  right: 340px;
   border: 1px solid black;
   border-left:none;
   border-right: none;
@@ -483,7 +483,7 @@ margin-top: 9px;
   border-left: none;
   font-size: 12px;
   position: relative;
-  right: 372px;
+  right: 370px;
   top: 34px;
    border-radius: 0px;
   padding: 1px 0 0 1px;
@@ -897,6 +897,7 @@ margin-top: 9px;
 
 
 }
+
 
 
 
